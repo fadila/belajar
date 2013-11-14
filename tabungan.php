@@ -19,7 +19,7 @@ class Tabungan{
 
 	function cekSaldo(){
 
-		echo "Saldo anda sebesar Rp ".$this->saldo."<br/>";
+		echo "Saldo Anda Sebesar Rp ".$this->saldo."<br/>";
 	}
 
 	function cekPinATM($pin){
